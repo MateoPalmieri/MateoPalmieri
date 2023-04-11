@@ -11,16 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
 ## Développeur en formation
 
-Actuellement en 3ème année d'études au campus d'Ynov à Aix-en-Provence.
+Actuellement en 3ème année d'études au campus d'**Ynov** à **Aix-en-Provence**.
 Je compte m'orienté dans le développement logiciel à terme, mais je suis également interéssé par le web surtout du côté design, ergonomie et fluidité.
 
 ### Mes réseaux
 
-LinkedIn : [Mateo PALMIERI](https://www.instagram.com/mat.palm/) </br>
-Instagram : [Mateopalm](https://www.linkedin.com/in/mateo-palmieri/)
+LinkedIn : [Mateo PALMIERI](https://www.linkedin.com/in/mateo-palmieri/){:target="_blank" } </br>
+Instagram : [Mateopalm](https://www.instagram.com/mat.palm/){:target="_blank" }
