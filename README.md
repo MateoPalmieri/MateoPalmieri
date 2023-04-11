@@ -22,5 +22,5 @@ Je compte m'orienté dans le développement logiciel à terme, mais je suis éga
 
 ### Mes réseaux
 
-LinkedIn : ![Mateo PALMIERI](https://www.instagram.com/mat.palm/)
-Instagram : ![Mateopalm](https://www.linkedin.com/in/mateo-palmieri/)
+LinkedIn : [Mateo PALMIERI](https://www.instagram.com/mat.palm/)
+Instagram : [Mateopalm](https://www.linkedin.com/in/mateo-palmieri/)
