@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Développeur en formation
+
+Actuellement en 3ème année d'études au campus d'Ynov à Aix-en-Provence.
+Je compte m'orienté dans le développement logiciel à terme, mais je suis également interéssé par le web surtout du côté design, ergonomie et fluidité.
