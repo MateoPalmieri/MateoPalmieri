@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **MateoPalmieri/MateoPalmieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
 Actuellement en 3ème année d'études au campus d'Ynov à Aix-en-Provence.
 Je compte m'orienté dans le développement logiciel à terme, mais je suis également interéssé par le web surtout du côté design, ergonomie et fluidité.
+
+### Mes réseaux
+
+LinkedIn : ![Mateo PALMIERI](https://www.instagram.com/mat.palm/)
+Instagram : ![Mateopalm](https://www.linkedin.com/in/mateo-palmieri/)
