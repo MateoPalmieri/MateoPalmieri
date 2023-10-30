@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ## Développeur en formation
 
-Actuellement en 3ème année d'études au campus d'**Ynov** à **Aix-en-Provence**.
-Je compte m'orienté dans le développement logiciel à terme, mais je suis également interéssé par le web surtout du côté design, ergonomie et fluidité.
+Actuellement en 1ère année de Master au campus d'**Ynov** à **Aix-en-Provence**.
+Je compte m'orienter dans le développement logiciel à terme, mais je suis également interéssé par le web surtout côté design UI / UX.
 
 ### Mes réseaux
 
