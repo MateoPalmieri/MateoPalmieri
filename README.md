@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Développeur en formation
+## Développeur junior
 
-Actuellement en dernière année de Master au campus d'**Ynov** à **Aix-en-Provence**.
-Je compte m'orienter dans le développement logiciel à terme, mais je suis également interéssé par le web surtout côté design UI / UX.
+Diplômé d'un Master au campus d'**Ynov** à **Aix-en-Provence** et d'un titre **RNCP de niveau 7**.
+J'utilise Symfony pour mon travail, je tente d'apprendre NextJS et de progresser un peu plus chaque jour.
+Je m'intéresse à tout, j'apprécie particulièrement le web design et les animations.
 
 ### Mes réseaux
 
